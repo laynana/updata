@@ -1,0 +1,5 @@
+[
+  "scripts/test_display.py::Testdispaly::()::test_display_input",
+  "scripts/test_network.py::Test_network::()::test_network_2g",
+  "scripts/test_network.py::Test_network::()::test_network_3g"
+]
